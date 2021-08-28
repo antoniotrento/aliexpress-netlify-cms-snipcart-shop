@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53d8a530-0fdb-43de-a4eb-111cde9eedb6" name="Default Changelist" comment="admin fix">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1561078091">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="2" />
+          <entry key="jpg" value="26" />
+          <entry key="js" value="141" />
+          <entry key="json" value="5" />
+          <entry key="md" value="69" />
+          <entry key="mdx" value="2" />
+          <entry key="sass" value="5" />
+          <entry key="svg" value="2" />
+          <entry key="toml" value="2" />
+          <entry key="yml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="26" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="141" />
+          <entry key="Markdown" value="71" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="2" />
+          <entry key="Sass" value="5" />
+          <entry key="YAML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="JavaScript Console" value="6" />
+          <entry key="css" value="1" />
+          <entry key="html" value="4" />
+          <entry key="js" value="10580" />
+          <entry key="md" value="643" />
+          <entry key="txt" value="364" />
+          <entry key="yml" value="676" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="10550" />
+          <entry key="Less" value="36" />
+          <entry key="Markdown" value="643" />
+          <entry key="PLAIN_TEXT" value="364" />
+          <entry key="YAML" value="676" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/product-page-template.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aliscrape_experiments.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/all.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="105" column="11" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Testimonials.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cms/cms.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/BlogPostPreview.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/ProductPreview.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Layout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>content</find>
+      <find>post.frontmatter</find>
+      <find>data</find>
+      <find>styled</find>
+      <find>trans</find>
+      <find>tags</find>
+      <find>ProductTemplate</find>
+      <find>layout</find>
+      <find>blog</find>
+      <find>feat</find>
+      <find>featuredimage</find>
+      <find>console.log</find>
+      <find>imageD</find>
+      <find>height</find>
+      <find>index</find>
+      <find>p=</find>
+      <find>padd</find>
+      <find>common</find>
+      <find>512</find>
+      <find>padding</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>data</replace>
+      <replace>item</replace>
+      <replace>ProductPage</replace>
+      <replace>featuredImage</replace>
+      <replace>../../img/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/templates/category.js" />
+        <option value="$PROJECT_DIR$/src/pages/product/index.md" />
+        <option value="$PROJECT_DIR$/public/admin/config.yml" />
+        <option value="$PROJECT_DIR$/stories/index.stories.js" />
+        <option value="$PROJECT_DIR$/.storybook/config.js" />
+        <option value="$PROJECT_DIR$/src/stories/index.stories.js" />
+        <option value="$PROJECT_DIR$/src/components/Product Card/ProductCard.js" />
+        <option value="$PROJECT_DIR$/src/pages/products/index.md" />
+        <option value="$PROJECT_DIR$/src/components/SnipCartButton/SnipCartButton.js" />
+        <option value="$PROJECT_DIR$/src/html.js" />
+        <option value="$PROJECT_DIR$/src/cms/preview-templates/BlogPostPreview.js" />
+        <option value="$PROJECT_DIR$/src/cms/preview-templates/ProductPreview.js" />
+        <option value="$PROJECT_DIR$/public/admin/index.html" />
+        <option value="$PROJECT_DIR$/public/admin/cms.css" />
+        <option value="$PROJECT_DIR$/src/components/all.sass" />
+        <option value="$PROJECT_DIR$/src/styled/idex.js" />
+        <option value="$PROJECT_DIR$/src/templates/tags.js" />
+        <option value="$PROJECT_DIR$/src/templates/product.js" />
+        <option value="$PROJECT_DIR$/src/cms/cms.js" />
+        <option value="$PROJECT_DIR$/src/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/pages/about/index.md" />
+        <option value="$PROJECT_DIR$/src/pages/products.js" />
+        <option value="$PROJECT_DIR$/gatsby-node.js" />
+        <option value="$PROJECT_DIR$/gatsby-config.js" />
+        <option value="$PROJECT_DIR$/aliscrape_experiments.js" />
+        <option value="$PROJECT_DIR$/src/pages/products/32770463181.md" />
+        <option value="$PROJECT_DIR$/src/pages/index.js" />
+        <option value="$PROJECT_DIR$/src/styled/index.js" />
+        <option value="$PROJECT_DIR$/gatsby-browser.js" />
+        <option value="$PROJECT_DIR$/src/templates/index-page.js" />
+        <option value="$PROJECT_DIR$/static/admin/config.yml" />
+        <option value="$PROJECT_DIR$/src/components/PreviewCompatibleImage.js" />
+        <option value="$PROJECT_DIR$/src/components/Layout.js" />
+        <option value="$PROJECT_DIR$/src/templates/product-page-template.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="176" />
+    <option name="y" value="-5" />
+    <option name="width" value="509" />
+    <option name="height" value="278" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="preview-templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netlify-cms-snipcart-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netlify-cms-snipcart-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/lazyui" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\dev\netlify-cms-snipcart-shop\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dev\netlify-cms-snipcart-shop\src\components" />
+      <recent name="F:\dev\netlify-cms-snipcart-shop\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\netlify-cms-snipcart-shop\src\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="aliscrape_experiments.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="aliscrape_experiments.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="format" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.storybook" />
+      <item itemvalue="npm.format" />
+      <item itemvalue="Node.js.aliscrape_experiments.js" />
+      <item itemvalue="npm.build" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Node.js.aliscrape_experiments.js" />
+        <item itemvalue="npm.format" />
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d8a530-0fdb-43de-a4eb-111cde9eedb6" name="Default Changelist" comment="" />
+      <created>1556556030928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556556030928</updated>
+      <workItem from="1556556033720" duration="7345000" />
+      <workItem from="1556678564144" duration="294000" />
+      <workItem from="1556678884376" duration="2664000" />
+      <workItem from="1556681843338" duration="53148000" />
+      <workItem from="1556845408056" duration="2743000" />
+      <workItem from="1556907057997" duration="688000" />
+      <workItem from="1556914177345" duration="6505000" />
+      <workItem from="1556934571171" duration="1232000" />
+      <workItem from="1557254982925" duration="3068000" />
+      <workItem from="1557259560411" duration="24659000" />
+      <workItem from="1557627265340" duration="2738000" />
+      <workItem from="1557781576990" duration="490000" />
+      <workItem from="1557803877582" duration="15639000" />
+      <workItem from="1557863811769" duration="2975000" />
+      <workItem from="1557868728017" duration="436000" />
+      <workItem from="1557874310901" duration="7853000" />
+      <workItem from="1557935237320" duration="35192000" />
+      <workItem from="1558022217074" duration="3065000" />
+      <workItem from="1558036698056" duration="7961000" />
+    </task>
+    <task id="LOCAL-00005" summary="product.js">
+      <created>1556565978181</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556565978181</updated>
+    </task>
+    <task id="LOCAL-00006" summary="product.js">
+      <created>1556566072566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556566072566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="product.js">
+      <created>1556566171927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556566171927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="product.js">
+      <created>1556566373011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556566373011</updated>
+    </task>
+    <task id="LOCAL-00009" summary="product.js">
+      <created>1556566726622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556566726622</updated>
+    </task>
+    <task id="LOCAL-00010" summary="product.js">
+      <created>1556568354986</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556568354986</updated>
+    </task>
+    <task id="LOCAL-00011" summary="product.js">
+      <created>1556683203151</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556683203151</updated>
+    </task>
+    <task id="LOCAL-00012" summary="html.js">
+      <created>1556683475637</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556683475637</updated>
+    </task>
+    <task id="LOCAL-00013" summary="product url">
+      <created>1556683724583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556683724583</updated>
+    </task>
+    <task id="LOCAL-00014" summary="product url">
+      <created>1556683782734</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556683782734</updated>
+    </task>
+    <task id="LOCAL-00015" summary="product url">
+      <created>1556684012896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556684012896</updated>
+    </task>
+    <task id="LOCAL-00016" summary="product url">
+      <created>1556685073591</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556685073591</updated>
+    </task>
+    <task id="LOCAL-00017" summary="product url">
+      <created>1556687850392</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556687850392</updated>
+    </task>
+    <task id="LOCAL-00018" summary="product url">
+      <created>1556688044697</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688044697</updated>
+    </task>
+    <task id="LOCAL-00019" summary="product url">
+      <created>1556688362017</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688362017</updated>
+    </task>
+    <task id="LOCAL-00020" summary="product url">
+      <created>1556688544080</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688544080</updated>
+    </task>
+    <task id="LOCAL-00021" summary="product url">
+      <created>1556688778521</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556688778521</updated>
+    </task>
+    <task id="LOCAL-00022" summary="live api">
+      <created>1556736952594</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556736952594</updated>
+    </task>
+    <task id="LOCAL-00023" summary="cleaning">
+      <created>1557846643340</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557846643340</updated>
+    </task>
+    <task id="LOCAL-00024" summary="import button">
+      <created>1557846951327</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557846951327</updated>
+    </task>
+    <task id="LOCAL-00025" summary="refactors">
+      <created>1557850097616</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557850097616</updated>
+    </task>
+    <task id="LOCAL-00026" summary="refactors">
+      <created>1557857739205</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557857739205</updated>
+    </task>
+    <task id="LOCAL-00027" summary="refactors">
+      <created>1557861411088</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557861411088</updated>
+    </task>
+    <task id="LOCAL-00028" summary="format product page working">
+      <created>1557887032560</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557887032560</updated>
+    </task>
+    <task id="LOCAL-00029" summary="lots of styling progress">
+      <created>1557958624052</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1557958624053</updated>
+    </task>
+    <task id="LOCAL-00030" summary="lots of styling progress">
+      <created>1557965159666</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1557965159666</updated>
+    </task>
+    <task id="LOCAL-00031" summary="lots of styling progress">
+      <created>1557965333978</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1557965333978</updated>
+    </task>
+    <task id="LOCAL-00032" summary="lots of styling progress">
+      <created>1557965613884</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557965613884</updated>
+    </task>
+    <task id="LOCAL-00033" summary="lots of styling progress">
+      <created>1557966032985</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1557966032985</updated>
+    </task>
+    <task id="LOCAL-00034" summary="y break?">
+      <created>1557966419644</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1557966419644</updated>
+    </task>
+    <task id="LOCAL-00035" summary="y break?">
+      <created>1557966526695</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1557966526695</updated>
+    </task>
+    <task id="LOCAL-00036" summary="y break?">
+      <created>1557967181735</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1557967181735</updated>
+    </task>
+    <task id="LOCAL-00037" summary="maybe fix?">
+      <created>1557967405142</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1557967405142</updated>
+    </task>
+    <task id="LOCAL-00038" summary="plz work so tired">
+      <created>1557968038612</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1557968038612</updated>
+    </task>
+    <task id="LOCAL-00039" summary="plz work so tired">
+      <created>1557968344857</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1557968344857</updated>
+    </task>
+    <task id="LOCAL-00040" summary="plz work so tired">
+      <created>1557968797483</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1557968797483</updated>
+    </task>
+    <task id="LOCAL-00041" summary="plz work so tired">
+      <created>1557969041194</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1557969041194</updated>
+    </task>
+    <task id="LOCAL-00042" summary="plz work so tired">
+      <created>1557969485030</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1557969485030</updated>
+    </task>
+    <task id="LOCAL-00043" summary="plz work so tired">
+      <created>1557971259317</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1557971259317</updated>
+    </task>
+    <task id="LOCAL-00044" summary="success?">
+      <created>1557971963079</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1557971963079</updated>
+    </task>
+    <task id="LOCAL-00045" summary="success?">
+      <created>1557973084998</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1557973084998</updated>
+    </task>
+    <task id="LOCAL-00046" summary="...webstorm didnt feel like adding images to git automatically today... that was a massive waste of time">
+      <created>1557973162751</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1557973162751</updated>
+    </task>
+    <task id="LOCAL-00047" summary="...webstorm didnt feel like adding images to git automatically today... that was a massive waste of time">
+      <created>1557973637861</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1557973637861</updated>
+    </task>
+    <task id="LOCAL-00048" summary="adjust grid size">
+      <created>1558026945421</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1558026945421</updated>
+    </task>
+    <task id="LOCAL-00049" summary="layout fixes">
+      <created>1558040523823</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1558040523823</updated>
+    </task>
+    <task id="LOCAL-00050" summary="layout fixes">
+      <created>1558042041308</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1558042041308</updated>
+    </task>
+    <task id="LOCAL-00051" summary="admin fix">
+      <created>1558042770997</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1558042770997</updated>
+    </task>
+    <task id="LOCAL-00052" summary="admin fix">
+      <created>1558044984264</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1558044984264</updated>
+    </task>
+    <task id="LOCAL-00053" summary="admin fix">
+      <created>1558045587473</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1558045587473</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="178695000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.0943098" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.19863014" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32929516" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49789253" weight="0.32819384" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49947312" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021075" side_tool="true" weight="0.32819384" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947312" weight="0.2918502" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add products" />
+    <MESSAGE value="empty product" />
+    <MESSAGE value="product.js" />
+    <MESSAGE value="html.js" />
+    <MESSAGE value="product url" />
+    <MESSAGE value="live api" />
+    <MESSAGE value="cleaning" />
+    <MESSAGE value="import button" />
+    <MESSAGE value="refactors" />
+    <MESSAGE value="format product page working" />
+    <MESSAGE value="lots of styling progress" />
+    <MESSAGE value="y break?" />
+    <MESSAGE value="maybe fix?" />
+    <MESSAGE value="plz work so tired" />
+    <MESSAGE value="success?" />
+    <MESSAGE value="...webstorm didnt feel like adding images to git automatically today... that was a massive waste of time" />
+    <MESSAGE value="adjust grid size" />
+    <MESSAGE value="layout fixes" />
+    <MESSAGE value="admin fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="admin fix" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32817753623.md" />
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32851786287.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md" />
+    <entry file="file://$PROJECT_DIR$/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md" />
+    <entry file="file://$PROJECT_DIR$/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md" />
+    <entry file="file://$PROJECT_DIR$/.cache/sync-requires.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BlogRoll.js" />
+    <entry file="file://$PROJECT_DIR$/src/templates/blog-post.js" />
+    <entry file="file://$PROJECT_DIR$/src/templates/tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/IndexPagePreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-759" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/404.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/tags/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/contact/file-upload.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.md" />
+    <entry file="file://$PROJECT_DIR$/src/pages/about/index.md" />
+    <entry file="file://$PROJECT_DIR$/src/pages/contact/examples.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/contact/thanks.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/33006553382.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32993992335.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="496">
+            <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32914217114.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32845363479.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32811386528.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="46">
+            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32888020022.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32862038594.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4981">
+            <caret line="223" column="8" selection-start-line="223" selection-start-column="8" selection-end-line="223" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32863212725.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32957656581.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products/32770463181.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4600">
+            <caret line="200" column="17" selection-start-line="200" selection-start-column="17" selection-end-line="200" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PreviewCompatibleImage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1164">
+          <caret line="72" column="1" lean-forward="true" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-browser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/AboutPagePreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/about-page.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SiteMetadata.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Testimonials.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/index-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/BlogPostPreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/all.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cms/preview-templates/ProductPreview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/product-page-template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aliscrape_experiments.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
